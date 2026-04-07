@@ -588,7 +588,7 @@ DEBUG COMMANDS
 =============================================================
 
           
-http://docwiki.cisco.com/wiki/Cisco~~IOS~~Voice~~Troubleshooting~~and~~Monitoring~~--~~Tcl~~IVR~~Troubleshooting
+http://docwiki.cisco.com/wiki/Cisco~~IOS~~Voice~~Troubleshooting~~and~~Monitoring~~52~~Tcl~~IVR~~Troubleshooting
 
 debug voice application ?
 debug voice application error
